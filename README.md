@@ -6,6 +6,9 @@ In this you can act like you have a atm and add funds or withdraw funds with thi
 ## How to Run
 run the html.index and select what you wnat to do ether deposit or withdraw. type the amount in and click submit
 
+## Inporvments
+  I added more css styling and made the submut auto clear after each use
+  
 ## Future Development
 In future development i plan on making it look more like a atm and adding more features.
 
